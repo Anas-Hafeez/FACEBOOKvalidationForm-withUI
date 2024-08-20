@@ -1,0 +1,39 @@
+
+        *{
+            margin: 0;
+            padding: 0;
+        }
+        #face{
+            height: 600px;
+            width:100%;
+            border: 1px solid black;
+            background-color: rgb(219, 225, 235);
+            
+        }
+        #login{
+            height: 350px;
+            width: 396px;
+            /* border: 1px solid black; */
+            margin-left: 800px;
+            margin-top: -200px;
+            padding: 10px 0px 24px;
+            background-color: #fff;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, .1), 0 8px 16px rgba(0, 0, 0, .1);
+            border-radius: 8px;
+           
+        }
+        #create{
+            border-color: rgb(236, 236, 236);
+            height: 52px;
+            width: 180px;
+            border-radius: 8px;
+            margin-left: 105px;
+            background-color: rgb(3, 168, 3);
+            margin-top: 20px;
+            line-height: 55px;
+            text-align: center;
+            padding: 5px 3px 5px;
+          
+        }
+
+    
